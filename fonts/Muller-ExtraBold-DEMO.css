@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Muller ExtraBold DEMO";
+    src: url("Muller-ExtraBold-DEMO.eot"); /* IE9 */
+    src: url("Muller-ExtraBold-DEMO.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Muller-ExtraBold-DEMO.woff") format("woff"), /* chrome, firefox */
+    url("Muller-ExtraBold-DEMO.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Muller-ExtraBold-DEMO.svg#Muller ExtraBold DEMO") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
